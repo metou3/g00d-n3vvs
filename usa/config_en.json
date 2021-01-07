@@ -41,7 +41,7 @@
     "lock_news_filter": 0, 
     "lock_pro": 1, 
     "native_ads": 0, 
-    "native_ads_freq": 5, 
+    "native_ads_freq": 0, 
     "noti_delay": 10, 
     "noti_time": 1, 
     "page_switch_delay": 2, 
