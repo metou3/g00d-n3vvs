@@ -39,7 +39,7 @@
     "intro_version": 0, 
     "lock_dark_mode": 0, 
     "lock_news_filter": 0, 
-    "lock_pro": 0, 
+    "lock_pro": 1, 
     "native_ads": 0, 
     "native_ads_freq": 9999999, 
     "noti_delay": 10, 
