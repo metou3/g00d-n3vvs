@@ -39,7 +39,7 @@
     "intro_version": 0, 
     "lock_dark_mode": 0, 
     "lock_news_filter": 0, 
-    "lock_pro": 0, 
+    "lock_pro": 1, 
     "native_ads": 0, 
     "native_ads_freq": 9999999, 
     "noti_delay": 10, 
@@ -95,11 +95,7 @@
     "invite_friends_tv2": "Keep inviting your friends to unlock even more", 
     "invite_friends_tv3": "", 
     "invite_friends_tv4": ""
-  }, 
-  "links": {
-    "coffee_tea": "https://ko-fi.com/sunnyday", 
-    "coffee_tea_img": "https://sunnybot.org/goodnews/buy_tea.png"
-  }, 
+  },
   "payment_style": {
     "payment_style_on_restart": "dialog_payment", 
     "payment_style_on_start": "none", 
