@@ -52,7 +52,7 @@
     "reaction_layout": 1, 
     "reward_ads_on_back_webview": 0, 
     "reward_ads_on_payment_close": 0, 
-    "show_intro": 1, 
+    "show_intro": 0, 
     "show_tutorial": 1, 
     "ticket_valid_days": 7, 
     "update_every_x_hour": 1, 
