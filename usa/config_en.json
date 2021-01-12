@@ -49,7 +49,7 @@
     "payment_time": 1, 
     "payment_version": 1, 
     "rate_app": 1, 
-    "reaction_layout": 0, 
+    "reaction_layout": 1, 
     "reward_ads_on_back_webview": 0, 
     "reward_ads_on_payment_close": 0, 
     "show_intro": 1, 
