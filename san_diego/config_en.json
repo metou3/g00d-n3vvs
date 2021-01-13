@@ -1,7 +1,7 @@
 {
   "1_page_payment": {
     "1_page_payment_0_tv1": "Start Now", 
-    "1_page_payment_0_tv2": "If you choose to purchase USA News, payment will be charged to your Google Play account, and your account will be charged for renewal within 24-hours prior to the end of the current period."
+    "1_page_payment_0_tv2": "If you choose to purchase San Diego News, payment will be charged to your Google Play account, and your account will be charged for renewal within 24-hours prior to the end of the current period."
   }, 
   "4_page_payment": {
     "4_page_payment_0_tv1": "", 
@@ -14,10 +14,10 @@
     "4_page_payment_3_tv2": ""
   }, 
   "bottom_payment": {
-    "bottom_payment_tv0": "Upgrade USA News", 
+    "bottom_payment_tv0": "Upgrade San Diego News", 
     "bottom_payment_tv1": "Access pro features", 
     "bottom_payment_tv2": "Can unsubscribe anytime", 
-    "bottom_payment_tv3": "Unlimited USA News daily", 
+    "bottom_payment_tv3": "Unlimited San Diego News daily", 
     "bottom_payment_tv4": "Start Now", 
     "bottom_payment_tv5": "Continue"
   }, 
