@@ -34,7 +34,7 @@
     "buy_coffee_tea": 0, 
     "content_locked_percent": 0, 
     "dark_mode": 1, 
-    "inter_ads": 0, 
+    "inter_ads": 1, 
     "inter_ads_freq": 1000, 
     "intro_version": 0, 
     "lock_dark_mode": 0, 
