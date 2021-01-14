@@ -27,7 +27,7 @@
   "config": {
     "background_update": 1, 
     "background_update_freq": 1, 
-    "banner_ads_ontop": 0, 
+    "banner_ads_ontop": 1, 
     "banner_ads": 1,
     "btn_share": 1, 
     "btn_share_screenshoot": 1, 
