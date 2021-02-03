@@ -22,7 +22,7 @@
     "bottom_payment_tv5": "Continue"
   }, 
   "background_update": {
-    "background_update_freq_type": "days"
+    "background_update_freq_type": "hours"
   }, 
   "config": {
     "background_update": 1, 
