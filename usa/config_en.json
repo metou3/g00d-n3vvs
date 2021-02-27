@@ -22,11 +22,11 @@
     "bottom_payment_tv5": "Continue"
   }, 
   "background_update": {
-    "background_update_freq_type": "hours"
+    "background_update_freq_type": "minutes"
   }, 
   "config": {
     "background_update": 1, 
-    "background_update_freq": 1, 
+    "background_update_freq": 15, 
     "banner_ads_ontop": 1, 
     "btn_share": 1, 
     "btn_share_screenshoot": 1, 
